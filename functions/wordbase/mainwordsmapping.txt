@@ -1,0 +1,6 @@
+google chrome : google-chrome
+chrome : google-chrome
+site :  google-chrome
+search : google-chrome
+vlc : vlc
+play : vlc
