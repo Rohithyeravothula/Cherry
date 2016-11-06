@@ -1,2 +1,2 @@
 # Cherry
-Personal voice assistant application for personal computers
+voice assistant application for personal computers
